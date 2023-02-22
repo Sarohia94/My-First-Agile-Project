@@ -9,7 +9,7 @@ assignees: ''
 
 As a **role** I can **capability** so that **receive benefit**
 
-**Aceeptance Criteria:**
+## Aceeptance Criteria:
   * Aceeptance Criteria 1
   * Aceeptance Criteria 2 
   * Aceeptance Criteria 3
